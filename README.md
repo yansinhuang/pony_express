@@ -1,5 +1,5 @@
 # Pony Express
-A mobile-ready implementation of the classic game Pony Express using React Native. For demostration please see this [demo video](https://github.com/yansinhuang/pony_express/blob/main/demo.mp4).
+A mobile-ready implementation of the classic game Pony Express using **React Native**. For demostration please see this [demo video](https://github.com/yansinhuang/pony_express/blob/main/demo.mp4).
 ## Installation
 1. `npm install`
 2. `expo start`
