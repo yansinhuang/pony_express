@@ -1,4 +1,5 @@
 # Pony Express
+A mobile-ready implementation of the classic game Pony Express using React Native.
 ## Installation
 1. `npm install`
 2. `expo start`
